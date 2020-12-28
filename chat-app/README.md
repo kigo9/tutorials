@@ -5,11 +5,15 @@ Chat web application taken from Udemy course [The Complete Node.js Developer Cou
 ## Installation
 
 Use [npm][id] to install required dependencies
-```npm i```
+```
+npm i
+```
 
 ## Usage
 
 Run [npm][id] script in order to launch application
-```npm start```
+```
+npm start
+```
 
 [id]: https://nodejs.org/en/
