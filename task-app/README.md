@@ -1,6 +1,6 @@
 # Task app
 
-Task web application taken from Udemy course [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) (Section 10-13). Covers REST API development basics with [Mongo DB][mongoId], [Mongoose ODM](https://mongoosejs.com/) and [Node.js][nodeId].
+Task web application taken from Udemy course [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) (Section 10-13). Covers REST API development basics with [Mongo DB][mongoId], [Mongoose ODM](https://mongoosejs.com/) and [Node.js][nodeId]. Authentication is implemented using [JWT](https://jwt.io/).
 
 ## Prerequisites
 
